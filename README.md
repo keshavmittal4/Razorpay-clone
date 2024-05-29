@@ -2,6 +2,7 @@ Overview:
 This repository contains a static, responsive clone of the Razorpay website. The project aims to replicate the look and feel of the original Razorpay website while ensuring optimal performance across all devices.
 
 Features
+
 Responsive Design: Ensures a seamless experience on desktops, tablets, and mobile devices.
 
 Static Pages: Includes the main pages from the Razorpay website with static content and layout.
