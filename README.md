@@ -7,7 +7,7 @@ Responsive Design: Ensures a seamless experience on desktops, tablets, and mobil
 
 Static Pages: Includes the main pages from the Razorpay website with static content and layout.
 
-Modern Technologies: Built using HTML, CSS, and JavaScript to provide a clean and efficient codebase.
+Modern Technologies: Built using HTML, CSS, and Tailwind CSS to provide a clean and efficient codebase.
 
 Technologies Used
 
@@ -15,7 +15,7 @@ HTML5: For structuring the web pages.
 
 CSS3: For styling and ensuring responsive design with media queries.
 
-JavaScript: For adding interactive elements and ensuring smooth user experience.
+Tailwind CSS: To provide a clean and efficient codebase
 
 Prerequisites
 
