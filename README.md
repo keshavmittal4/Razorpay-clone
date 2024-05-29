@@ -9,11 +9,12 @@ Static Pages: Includes the main pages from the Razorpay website with static cont
 Modern Technologies: Built using HTML, CSS, and JavaScript to provide a clean and efficient codebase.
 
 Technologies Used
+
 HTML5: For structuring the web pages.
+
 CSS3: For styling and ensuring responsive design with media queries.
+
 JavaScript: For adding interactive elements and ensuring smooth user experience.
-Getting Started
-Follow these instructions to get a copy of the project up and running on your local machine.
 
 Prerequisites
 You will need a web browser and a text editor to view and edit the code.
